@@ -15,3 +15,4 @@
 *PROJECT DESCRIPTION*:A chat application is built with both a frontend and a backend. The frontend (or client-side) is what users interact with directly, including the user interface and handling user input. The backend (or server-side) handles the application's logic, data storage, and communication, including routing messages and user authentication. 
 
 #OUT PUT#
+![Image](https://github.com/user-attachments/assets/ac12d13e-30ee-43dc-bd75-712481db33ca)
